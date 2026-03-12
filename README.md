@@ -1,8 +1,23 @@
-# PORNAI
+# Soul
 
 *An Immersive Art Installation*
 
 Conceived by Tanaha Koontz | TATTOO Foundation | Carso Cybernetics
+
+---
+
+## Project Structure
+
+```
+soul/
+├── room1_us1/          # Room One — US1
+├── room2_artifacts/    # Room Two — The Artifacts
+├── room3_cab/          # Room Three — The Cab
+├── room4_vr/           # Room Four — VR Memory Environments
+├── room5_both/         # Room Five — Both
+├── room6_many/         # Room Six — Many
+└── README.md
+```
 
 ---
 
@@ -20,7 +35,7 @@ Both words are tattooed on her wrists. Pornai on the left. Hetaira on the right.
 
 ## The Premise
 
-PORNAI is a multi-room immersive installation that moves visitors through the interior experience of a trafficking survivor across three decades — not as voyeurs, but as witnesses who arrive too late and must reckon with what their absence cost.
+Soul is a multi-room immersive installation that moves visitors through the interior experience of a trafficking survivor across three decades — not as voyeurs, but as witnesses who arrive too late and must reckon with what their absence cost.
 
 The central question of the installation is not what was done to her.
 
@@ -158,6 +173,6 @@ That ends here.
 
 ## Collaborators Sought
 
-PORNAI is seeking collaborators in immersive experience design, Unreal Engine development, trauma-informed curatorial practice, spatial audio design, and grant funding. The installation is conceived as a traveling exhibition suitable for gallery, museum, and non-traditional venue contexts.
+Soul is seeking collaborators in immersive experience design, Unreal Engine development, trauma-informed curatorial practice, spatial audio design, and grant funding. The installation is conceived as a traveling exhibition suitable for gallery, museum, and non-traditional venue contexts.
 
 Inquiries: [TATTOO Foundation](https://tattoofoundation.org)
