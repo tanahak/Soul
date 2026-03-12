@@ -151,11 +151,13 @@ They leave carrying that question. They carry it into every room they walk into 
 
 ## The Exit
 
-Visitors leave through a narrow corridor lined with a single question printed floor to ceiling in every language:
+Visitors leave through a narrow corridor. Scattered floor to ceiling, in all languages:
 
-***"What were you doing the night she walked US1?"***
+***Soul Profit. Soul Prophet. Souls are not for profit.***
 
-Not as accusation. As accounting. As the beginning of understanding that invisibility is not a condition that happens to people. It is a condition that requires the participation of witnesses who chose to look away.
+And at the door, last thing before they leave:
+
+***I have a soul.***
 
 ---
 
